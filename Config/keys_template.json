@@ -1,0 +1,15 @@
+{
+  "alpaca": {
+    "paper trading acct": {
+      "API_KEY": "",
+      "API_SECRET": "",
+      "BASE_URL": "https://paper-api.alpaca.markets"
+    }
+  },
+  "postgres": {
+    "dbname": "FradleyTrader",
+    "user": "",
+    "host": "localhost",
+    "password": ""
+  }
+}
