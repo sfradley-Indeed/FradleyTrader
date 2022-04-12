@@ -1,2 +1,6 @@
 flask~=2.1.1
 pandas~=1.4.2
+alembic~=1.7.7
+SQLAlchemy~=1.4.35
+PyYAML~=6.0
+celery~=5.2.6
